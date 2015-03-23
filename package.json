@@ -24,7 +24,7 @@
     "js-beautify": "1.5.1",
     "marked": "0.3.1",
     "mdconf": "0.0.2",
-    "mdextract": "^1.0.0",
+    "mdextract": "https://github.com/noslouch/mdextract",
     "minimist": "^0.2.0",
     "read-input": "^0.1.0"
   },
